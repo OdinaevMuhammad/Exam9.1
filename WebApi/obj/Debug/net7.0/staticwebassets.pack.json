@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\BSPP2266man2.png",
+      "PackagePath": "staticwebassets\\images\\BSPP2266man2.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\Ellipse 1 (Stroke)elips.png",
+      "PackagePath": "staticwebassets\\images\\Ellipse 1 (Stroke)elips.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\Framefigma.png",
+      "PackagePath": "staticwebassets\\images\\Framefigma.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\IMAGE1.png",
+      "PackagePath": "staticwebassets\\images\\IMAGE1.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\Vectorinst.png",
+      "PackagePath": "staticwebassets\\images\\Vectorinst.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\Vectorrobo.png",
+      "PackagePath": "staticwebassets\\images\\Vectorrobo.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\Vectorstripe.png",
+      "PackagePath": "staticwebassets\\images\\Vectorstripe.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\Vectorteleg2.png",
+      "PackagePath": "staticwebassets\\images\\Vectorteleg2.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\bx_bx-maploc2.png",
+      "PackagePath": "staticwebassets\\images\\bx_bx-maploc2.png"
+    },
+    {
+      "Id": "C:\\Users\\NewUser\\Desktop\\Exam9\\WebApi\\wwwroot\\images\\coverstol2.png",
+      "PackagePath": "staticwebassets\\images\\coverstol2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
